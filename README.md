@@ -20,10 +20,10 @@ It leverages **data visualization** and **statistical analysis** to help educato
 
 ## 📂 Project Structure
 -**Student-score-analysis/**
-│
-├── Student score analysis.ipynb # Main notebook with code and analysis
-├── data/ # Dataset files (CSV/Excel)
-├── README.md # Project documentation
+-
+- Student score analysis.ipynb # Main notebook with code and analysis
+- data/ # Dataset files (CSV/Excel)
+- README.md # Project documentation
 
 ## 📈 Sample Insights
 - Correlation between math and science scores.
